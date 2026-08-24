@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(sudo *)",
+      "Bash(rm -rf *)",
+      "Bash(curl * | sh)",
+      "Bash(curl * | bash)"
+    ],
+    "ask": [
+      "Bash(git push *)",
+      "Bash(git reset --hard *)",
+      "Bash(git checkout *)"
+    ],
+    "allow": [
+      "Read(/home/me/thesis/**)",
+      "Edit(/home/me/thesis/**)",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:api.crossref.org)",
+      "WebFetch(domain:openalex.org)",
+      "WebFetch(domain:archive.org)",
+      "Bash(pdftotext *)",
+      "Bash(pdfinfo *)",
+      "Bash(command -v *)"
+    ]
+  }
+}
