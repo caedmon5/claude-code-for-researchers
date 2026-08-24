@@ -1,0 +1,27 @@
+{
+  "title": "Setting up Claude Code for research work: a permission-system guide for researchers without programming training",
+  "upload_type": "lesson",
+  "description": "<p>A step-by-step guide to configuring Claude Code's permission system, written for researchers who are comfortable with computers but have no programming training. It sets out five steps, ordered so that recoverability comes before permissiveness: put the work under local git, block the dangerous commands, allow the broad harmless ones, keep commands in a form the rules can match, and run the built-in diagnostic. It covers keeping credentials and confidential research material out of version control, working in a repository owned by someone else, and the reasons that accumulated per-command approvals fail to reduce prompting. Factual claims about Claude Code's behaviour were verified against the published documentation.</p>",
+  "creators": [
+    {
+      "name": "O'Donnell, Daniel Paul",
+      "affiliation": "University of Lethbridge",
+      "orcid": "0000-0002-0127-4893"
+    }
+  ],
+  "keywords": [
+    "claude code",
+    "artificial intelligence",
+    "research software",
+    "digital humanities",
+    "version control",
+    "git",
+    "research data management",
+    "graduate training",
+    "computer security",
+    "scholarly communication"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "access_right": "open"
+}

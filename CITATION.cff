@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or adapt this guide, please cite it as below."
+title: "Setting up Claude Code for research work: a permission-system guide for researchers without programming training"
+authors:
+  - family-names: "O'Donnell"
+    given-names: "Daniel Paul"
+    orcid: "https://orcid.org/0000-0002-0127-4893"
+    affiliation: "University of Lethbridge"
+version: 1.0.0
+date-released: "2026-08-24"
+license: CC-BY-4.0
+repository-code: "https://github.com/caedmon5/claude-code-for-researchers"
+keywords:
+  - claude code
+  - research software
+  - digital humanities
+  - version control
+  - graduate training
