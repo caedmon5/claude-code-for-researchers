@@ -2,6 +2,9 @@
 
 *A guide for people who are not programmers.*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22086186.svg)](https://doi.org/10.5281/zenodo.22086186)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 So you are about to start using Claude Code — for your own research, or for a job in someone's lab. This is how to set it up before you begin, so that it stays useful and does not quietly become dangerous. It also works if you have already been using Claude Code and want to streamline what you have.
 
 It takes about half an hour. You do not need to know how to program: most of it is pasting a request to Claude and reading what it proposes.
@@ -599,5 +602,9 @@ The figures come from my own machine and my own sessions over the months before 
 **How this was written.** Drafted by Claude (Opus 5) in Claude Code, directed and revised by me across a working session, with the structure, the ordering of the steps, and several of the corrections mine. The factual claims about Claude Code's behaviour were checked against the published documentation rather than taken from the model. Errors that remain are mine.
 
 **Licence.** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, adapt it for your own lab, translate it; please keep the attribution.
+
+**How to cite.** O'Donnell, Daniel Paul. *Setting up Claude Code for research work: a permission-system guide for researchers without programming training.* 2026. https://doi.org/10.5281/zenodo.22086186
+
+That DOI always resolves to the most recent version. To cite this exact version, use https://doi.org/10.5281/zenodo.22086187
 
 Daniel Paul O'Donnell, University of Lethbridge · [0000-0002-0127-4893](https://orcid.org/0000-0002-0127-4893)
