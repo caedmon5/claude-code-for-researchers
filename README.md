@@ -534,7 +534,7 @@ Then, every few months, the retrospective question becomes useful:
 
 > **What has actually cost me work?**
 
-Not what sounds dangerous. What has genuinely bitten. The answer is usually short and rarely what a cautious person would have guessed. For me it turned out to be bulk tidying of my own notes — a batch edit that emptied several files. Not the internet access, not anything exotic. Editing his own prose, many files at once.
+Not what sounds dangerous. What has genuinely bitten. The answer is usually short and rarely what a cautious person would have guessed. For me it turned out to be bulk tidying of my own notes — a single command that emptied dozens of them. Not the internet access, not anything exotic. Editing his own prose, many files at once.
 
 When something goes wrong, add a rule rather than resolving to be more careful. The rule still works in six months.
 
